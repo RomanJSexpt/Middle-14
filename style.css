@@ -1,0 +1,47 @@
+.site-wrapper {
+    margin-top: 80px;
+}
+
+.text-center {
+    margin-top: 10px;
+}
+
+.navbar {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+
+.info-wrapper {
+    padding: 5px;
+    text-align: left;
+}
+
+.count-selector {
+    width: 130px;
+}
+
+.top-padding {
+    padding-top: 10px;
+}
+
+.btn-del {
+    background-color: rgba(243, 76, 76, 0.637);
+    color: whitesmoke;
+}
+
+.btn-del:hover,
+.btn-del:focus {
+    color: whitesmoke;
+    background-color: rgba(255, 0, 0, 0.658);
+    border-color: rgba(173, 10, 10, 0.651)
+}
+.form-control {
+    width: 20%;
+    text-align: center;
+}
+.colorButton {
+    background-color: rgba(241, 235, 235, 0.658);
+    border-color: rgba(151, 151, 151, 0.651)
+};
